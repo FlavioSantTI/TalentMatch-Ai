@@ -1,0 +1,8 @@
+{
+  "name": "TalentMatch AI",
+  "description": "A RAG-powered recruitment system for structured data entry, job management, and AI-driven candidate analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
